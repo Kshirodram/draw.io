@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T21:30:12.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vGBYc9qMNYZuO-NUEWkk" version="14.9.0" type="github"><diagram id="hem6nUy_On-hdqZF-iF0" name="Page-1">7Vjbcts2EP0aPVrDqyg/SpTYZJpO03o6fezABEgiBgkOCNlSvr4LERQvgOymESdppvLIIg4WwAK753DJhR+Xx58EqotfOCZs4Tn4uPB3C8+7D1bwXwGnFggirwVyQXELuT3wQD8TDToaPVBMmpGh5JxJWo/BlFcVSeUIQ0Lwl7FZxtl41RrlxAAeUsRM9E+KZdGi69Dp8XeE5kW3suvonhJ1xhpoCoT5ywDy9ws/FpzL9qo8xoSps+vOpR2XXOm9OCZIJf/JAI7/+NnNsgeKi3fxX85v6NeNf6dnaeSp2zDBsH/d5EIWPOcVYvse3Qp+qDBRszrQ6m0+cF4D6AL4iUh50sFEB8kBKmTJdG8jkZAbFRwAKl6RDksoY3ra1i/lzNXtdr7zg0jJK3v0LocNSUp4SaQ4wThBGJL0eTw/0umSX+wuQz9yCit7js5sb6XjqhPbjZzxFLChnEg9qo8L7BudBma1Mmiur+PeT9bx1+Mwv2UfjdICLloPutbgTHronDpfkEaa08+IHfR57sizJbn4QTJakfhCVhXqjFcy5oyLs40Pf4laepsLhCnp+y6ZIvgTsQ3IIH0GeHb+AI5RU1zy9ZkISYHfH9AjYR95QyXlFfQ9cil5OTDYMJqrDqmyeot0KwWHiBjns9qATnbX69p602pJ1NTtbjN6VH5sQQpq1VkecyWaS/TSBEtB2kx+nyp/ttBsr8ZWKaNnAmiCKGfJ8XWKmKmvB6wnmeLqML70QhdqqBhoXIfZuDJIsy/PIv97FSNS4YkFIPOIVTCLWF0ThbfE6lb6EFj1wftfH/5T+nAffFt9CL+FPtyQ29Es3A6CKbcnU8zM7ZXB7frQFNZQnTk1Pl6DN1N6lRTjNpKkoZ/R44U1unCCycPtIty9lvL64UAP7kvyYRCvZ9xVftw5S2cVrkanr3P/38a0M+FZ1pBZwhUZ4TJC1ckPLc8PR8Nw2cXvTc1kqmOL0qf8zEebCJ8X23RKaJVF7c+ukFI9/W3U2XhJiqtgSSHEGQWmi2UKK3oJRhLBj8KhuE4YsL65exSowo2KauKBliWfSPVEq+bO9dbLuspvIJnGU0FgqanWFs1cz6SZayPc8Xu1I1oTdac1Yg9bl/MxVMlro++Exq1a379vEYUwGJOyeygfRKGrgIZR8JyZonD/NunGh7UFT+L2CwfnxQpZeqEFtGGRCbqmGfy4thWmoA2LTNA1zVSr83oM2rAoND2ejnYto93J6HOmfVUlCX1JtN47waBvRwVM1OpapeoIs6DcOWHsRrYS9IcsNUkqbkNXo4LxTdGMLKIZzSWa3cvHAV/3DDUQCwAhpSSC1BJw/TvJadOt+MPJaOBMZNQzZdQNb6Oj0Oxfhba1Tv8+2d//DQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-20T21:30:27.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="STrLlfEw4KyyKxjVQwKD" version="14.9.0" type="github">
+  <diagram id="hem6nUy_On-hdqZF-iF0" name="Page-1">
+    <mxGraphModel dx="946" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="odUK1ffSidhHC_0QaOA3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="odUK1ffSidhHC_0QaOA3-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="138" />
+              <mxPoint x="190" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-2" value="Dev-1" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;" parent="1" vertex="1">
+          <mxGeometry x="80" y="112" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="odUK1ffSidhHC_0QaOA3-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-4" value="Dev-2" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.client;" parent="1" vertex="1">
+          <mxGeometry x="80" y="194" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="odUK1ffSidhHC_0QaOA3-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-6" value="push" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="odUK1ffSidhHC_0QaOA3-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.0656" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png" parent="1" vertex="1">
+          <mxGeometry x="260" y="142" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-8" value="CI pipeline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="254" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-9" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ecr;" parent="1" vertex="1">
+          <mxGeometry x="440" y="132" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="odUK1ffSidhHC_0QaOA3-10" value="Elastic Container Registry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="404" y="220" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
